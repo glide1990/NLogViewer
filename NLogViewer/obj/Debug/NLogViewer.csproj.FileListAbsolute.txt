@@ -1,0 +1,1 @@
+c:\users\алексей\documents\visual studio 2015\Projects\NLogViewer\NLogViewer\bin\Debug\NLogViewer.exe.config
